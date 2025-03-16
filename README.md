@@ -21,6 +21,9 @@ El proyecto utiliza los siguientes paquetes:
 ## Instrucciones de Ejecución
 
 1.Abrir noteboook en google colab y ejecutar todas las celdas hasta la sección de "Flujo Aplicacion Web para Google Colab"
+
 2.Una vez ejecutada la celda, en la salida se mostrará una línea similar a * URL pública de ngrok: https://xxxx-xx-xx-xx.ngrok-free.app
-3.Copia esa URL y pégala en tu navegador para ver la interfaz web.
+
+3.Copia esa URL y pégala en tu navegador para hacer uso de la interfaz web.
+
 4.Kill ngrok
